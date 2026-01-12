@@ -6,4 +6,5 @@
 ### Resolução de exercício - Imagens, links e listas
 
 ### Resolução Exercício - Tabelas, atributos e HTML semântico
+#### Próximo passo => CSS
 
