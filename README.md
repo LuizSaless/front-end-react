@@ -1,4 +1,6 @@
 # front-end-react
+# Início - Fundamentos do Desenvolvimento Front-End
+
 ## Resolução de Exercício - Conceitos básicos de HTML
 
 ### Principais Tags de Formatação
@@ -7,3 +9,6 @@
 
 ### Resolução Exercício - Tabelas, atributos e HTML semântico
 
+#### Próximo passo => CSS
+
+### CSS Inline - Externa - interno
