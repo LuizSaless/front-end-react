@@ -10,6 +10,6 @@
 ### Resolução Exercício - Tabelas, atributos e HTML semântico
 #### Próximo passo => CSS
 
-#### Próximo passo => CSS
-
 ### CSS Inline - Externa - interno
+
+### CSS Unidades de Medidas, Background e Box-Model
