@@ -48,6 +48,7 @@ O foco é consolidar os conceitos fundamentais do desenvolvimento web antes do u
 * Unidades de medida (`px`, `%`, `em`, `rem`)
 * Background (cores e imagens)
 * Box Model (content, padding, border e margin)
+* Estilização de Links, listas e tabelas
 
 ---
 

@@ -11,13 +11,26 @@ header {
     padding: 6px;
 }
 
-header > p {
+nav.menu li {
+    display: inline-block;
+    list-style-type: none;
+    margin: 24px;
+}
+
+nav.menu li > a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+/* header > p {
     display: inline-block;
     margin: 24px;
     text-transform: uppercase;
     color: white;
     font-weight: bold;
-}
+} */
 
 section {
     text-align: center;
@@ -45,6 +58,25 @@ button.botao-padrao {
     color: white;
     margin-top: 24px;
     font-size: 16px;
+}
+
+table {
+    width: 70%;
+    margin: 12px auto;
+}
+
+table, td, th {
+    border: 1px solid #c0bdbd;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 12px;
+}
+
+
+section#planos {
+    padding: 48px 0;
 }
 
 
