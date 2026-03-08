@@ -19,9 +19,14 @@ nav.menu li {
 
 nav.menu li > a {
     text-decoration: none;
-    color: white;
+    color: #cccccc;
     text-transform: uppercase;
     font-weight: bold;
+}
+
+nav.menu li > a:hover {
+    text-decoration: underline;
+    color: white;
 }
 
 /* header > p {
@@ -60,6 +65,11 @@ button.botao-padrao {
     font-size: 16px;
 }
 
+button.botao-padrao:hover {
+    cursor: pointer;
+    font-weight: bolder;
+}
+
 table {
     width: 70%;
     margin: 12px auto;
@@ -88,4 +98,15 @@ footer > p {
     color: grey;
     text-align: center;
     font-size: 14px;
+}
+
+
+a#botao-flutuante {
+    position: fixed;
+    right: 25px;
+    bottom: 25px;
+}
+
+a#botao-flutuante > img {
+    width: 60px;
 }
