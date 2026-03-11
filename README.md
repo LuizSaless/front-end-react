@@ -1,6 +1,6 @@
 ## Fundamentos do Desenvolvimento Front-End
 
-Este repositório reúne a **resolução prática de exercícios introdutórios de HTML e CSS**, que fazem parte do módulo **Fundamentos do Desenvolvimento Front-End**, base essencial do **Front-end com ReactJS**.
+Este repositório reúne a **resolução prática de exercícios introdutórios de HTML e CSS**, que fazem parte do módulo **Fundamentos do Desenvolvimento Front-End**, base essencial do curso **Front-end com ReactJS** - **GrowDev**.
 
 O foco é consolidar os conceitos fundamentais do desenvolvimento web antes do uso de bibliotecas e frameworks modernos.
 
